@@ -1,5 +1,5 @@
 
-2014-05-28
+<h1>2014-05-28:</h1>
 
 
 <h3>added beta stuff:</h3>
@@ -17,7 +17,7 @@
 - BUZ_Sol_DDPM
 - BUZ_CPilot_DDPM
 
-2014-05-27
+<h1>2014-05-27:</h1>
 
 <h3>added beta stuff:</h3>
 
