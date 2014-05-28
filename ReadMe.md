@@ -5,11 +5,11 @@ added beta stuff:
 
 - Weapons: by Buzs
 
-- BAF_L85A2_RIS_Holo
-     * 30Rnd_556x45_Stanag 
-	 * B_556x45_Ball
+- BUZ_L85A2_RIS_Holo
+     * 30Rnd_556x45r_Stanag 
+	 * B_556x45r_Ball
 		
-- BAF_L85A2_UGL_SUSAT 
+- BUZ_L85A2_UGL_SUSAT 
 
 - Men: by Buzs
 - BUZ_Sol_Officer_DDPM
