@@ -25,7 +25,7 @@ added beta stuff:
 - added Coyote Tactical Support Vehicle 6x6
 - added texture for Jackal 4x4 desert camo
 
-- Air:
+- Air: by Buzs + Dimitry
 - added Chinook HC2/2A/3 (woodland/desert camo)
 
 
