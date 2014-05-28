@@ -1,7 +1,8 @@
 
 2014-05-28
 
-added beta stuff:
+
+<h2>added beta stuff:</h2>
 
 - Weapons: by Buzs
 
@@ -18,7 +19,7 @@ added beta stuff:
 
 2014-05-27
 
-added beta stuff:
+<h2>added beta stuff:</h2>
 
 - Vehicles: by Buzs
 
