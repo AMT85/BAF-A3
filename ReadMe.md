@@ -18,7 +18,7 @@
 - BUZ_Sol_DDPM
 - BUZ_CPilot_DDPM
 
-- Radios:
+- Radios: TFR
 Bowman secure VHF Radio
 H4855 Personal Role Radio (PRR)
 
