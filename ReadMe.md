@@ -2,15 +2,16 @@ BAF for Arma 3
 
 <h5>2014-05-31:</h5>
 
-<h3>added beta stuff:</h3> by Buzs
+<h3>added beta stuff:</h3> 
+by Buzs
 
-added Challenger 2 woodland/desert camo
-added 4x crew BUZ_crewman_WL
-added 4x crew BUZ_crewman_DES
-fixed Coyote wheels
-modified texture H4855 radio
+- added Challenger 2 woodland/desert camo
+- added 4x crew BUZ_crewman_WL
+- added 4x crew BUZ_crewman_DES
+- fixed Coyote wheels
+- modified texture H4855 radio
 
-Thanx for testing Pavel,Valeriy,Dima
+* Thanx for testing Pavel,Valeriy,Dima
 
 
 <h5>2014-05-28:</h5>
