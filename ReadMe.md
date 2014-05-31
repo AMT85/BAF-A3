@@ -11,6 +11,8 @@ by Buzs
 - fixed Coyote wheels
 - modified texture H4855 radio
 
+- classnames can change!!!!
+
 * Thanx for testing Pavel,Valeriy,Dima
 
 
