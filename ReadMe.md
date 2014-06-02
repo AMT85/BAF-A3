@@ -1,6 +1,11 @@
 BAF for Arma 3
 
+Only available for AMT85 and friends.
+Use a ticket to download the beta stuff.
+
+
 <h5>2014-06-02:</h5>
+by Buzs
 
 - added 4x SAS Commandos
 
