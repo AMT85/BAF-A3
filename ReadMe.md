@@ -1,5 +1,23 @@
 BAF for Arma 3
 
+<h5>2014-06-02:</h5>
+
+- added 4x SAS Commandos
+
+- added AW50 Anti-Materiel / Sniper Rifle
+- added Heckler & Koch HK 417
+- added HK33 / 53
+- added Sig Sauer P226
+- added Flash-Bang
+- added MAC-10 SMG
+- added Claymore
+
+- combat uniform,helmets,barets,backbacks and other equipment are wip
+
+<h3>added beta stuff:</h3> 
+by Buzs
+
+
 <h5>2014-05-31:</h5>
 
 <h3>added beta stuff:</h3> 
