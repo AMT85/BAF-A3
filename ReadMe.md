@@ -11,11 +11,11 @@ BAF for Arma 3
 
 - merging dev repository to release candidate RC1
 - see internal logs for Release Candidate 1
-   * (to much stuff added)
+- (to much stuff added)
   
-- Thanx for testing all AMT85 members and especially the canadians and british players.
-- Big thanx to the 3 pilots for the execellent support in the 1st test-exercise.
-- We know russians helicopters are not the same like the Chinook ;-).
+- Thanx for testing all AMT85 members and especially the canadians and british players
+- Big thanx to the 3 pilots for the execellent support in the 1st test-exercise
+- We know russians helicopters are not the same like the Chinook ;-)
 
 
 
