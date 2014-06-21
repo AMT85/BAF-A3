@@ -2,6 +2,9 @@ BAF for Arma 3
 
 - Only available for AMT85 and friends.
 - Use a ticket to download the beta stuff.
+- If you have some ideas or suggestions,do not hesitate to contact us:
+
+- amt85-stuff@mail.ru
 
 - <h3>Licensed under CC BY-NC-SA 4.0</h3>
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -16,7 +19,7 @@ by Buzs,Dimitry and Valeriy
   
 - Thanx for testing all AMT85 members and especially the canadians and british players
 - Big thanx to the 3 pilots for the execellent support in the 1st test-exercise
-- We know russians helicopters are not the same like the Chinook ;-)
+- We know russian helicopters are not the same like the Chinook ;-)
 
 
 
