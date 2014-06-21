@@ -1,5 +1,22 @@
 BAF for Arma 3
 
+<<<<<<< HEAD
+
+
+<h5>2014-06-21:</h5> by Buzs,Dimitry and Valeriy 
+
+merging dev repository to release candidate RC1
+- see internal logs for Release Candidate 1
+  (to much stuff added)
+  
+- Thanx for testing all AMT85 members and especially the canadians and british players.
+- Big thanx to the 3 pilots for the execellent support in the 1st test-exercise.
+- We know russians helicopters are not the same like the Chinook ;-).
+
+- ------------------------------------------------------  
+  
+  
+=======
 Only available for AMT85 and friends.
 Use a ticket to download the beta stuff.
 
@@ -27,6 +44,7 @@ by Buzs
 by Buzs
 
 
+>>>>>>> origin/master
 <h5>2014-05-31:</h5>
 
 <h3>added beta stuff:</h3> 
