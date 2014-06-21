@@ -1,13 +1,12 @@
 BAF for Arma 3
 
-<<<<<<< HEAD
 
 
 <h5>2014-06-21:</h5> by Buzs,Dimitry and Valeriy 
 
-merging dev repository to release candidate RC1
+- merging dev repository to release candidate RC1
 - see internal logs for Release Candidate 1
-  (to much stuff added)
+   * (to much stuff added)
   
 - Thanx for testing all AMT85 members and especially the canadians and british players.
 - Big thanx to the 3 pilots for the execellent support in the 1st test-exercise.
@@ -16,9 +15,9 @@ merging dev repository to release candidate RC1
 - ------------------------------------------------------  
   
   
-=======
-Only available for AMT85 and friends.
-Use a ticket to download the beta stuff.
+
+- Only available for AMT85 and friends.
+- Use a ticket to download the beta stuff.
 
 - <h3>Licensed under CC BY-NC-SA 4.0</h3>
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
