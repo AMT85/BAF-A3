@@ -7,7 +7,8 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
-<h5>2014-06-21:</h5> by Buzs,Dimitry and Valeriy 
+<h5>2014-06-21:</h5> 
+by Buzs,Dimitry and Valeriy 
 
 - merging dev repository to release candidate RC1
 - see internal logs for Release Candidate 1
