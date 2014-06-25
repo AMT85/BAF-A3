@@ -10,10 +10,18 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-06-25:</h5> 
+by Buzs
+
+- added Release Candidate RC2
+- big thanx to the AMT85 community for testing
+- changeLog: see internal forum (bugfixes, new stuff etc.)
+  * DO NOT FORGET TO SYNC THE NEW STUFF WITH THE AMT85-SYNCER BEFORE YOU JOIN THE SERVER!
+
 <h5>2014-06-21:</h5> 
 by Buzs,Dimitry and Valeriy 
 
-- merging dev repository to release candidate RC1
+- merging dev repository to Release Candidate RC1
 - see internal logs for Release Candidate 1
 - (to much stuff added)
   
