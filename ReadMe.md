@@ -1,7 +1,7 @@
 BAF for Arma 3
 
 - Only available for AMT85 and friends.
-- Use a ticket to download the beta stuff.
+- Use a ticket to download the RC stuff.
 - If you have some ideas or suggestions,do not hesitate to contact us:
 
 - amt85-stuff@mail.ru
