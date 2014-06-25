@@ -16,7 +16,7 @@ by Buzs,Pavel,Valeriy
 - fixed server key
 - added ingame video
 - added Release Candidate RC2
-- added last exercise mission co42@ Rolling Thunder v.1.0 (Kandahar)
+- fixed exercise mission co42@ Rolling Thunder v.1.0 (Kandahar) +1x Chinook
 - big thanx to the AMT85 community for testing
 - changeLog: see internal forum (bugfixes, new stuff etc.)
   * DO NOT FORGET TO SYNC THE NEW STUFF WITH THE AMT85-SYNCER BEFORE YOU JOIN THE SERVER!
