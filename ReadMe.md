@@ -49,8 +49,6 @@ by Buzs
 <h3>added beta stuff:</h3> 
 by Buzs
 
-
->>>>>>> origin/master
 <h5>2014-05-31:</h5>
 
 <h3>added beta stuff:</h3> 
