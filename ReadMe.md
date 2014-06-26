@@ -13,6 +13,8 @@ BAF for Arma 3
 <h5>2014-06-26:</h5> 
 by Buzs
 
+* Release Candidate RC2
+
 - fixed texture for Jackal
 - modified config L85A2
 - added SAS backpack
