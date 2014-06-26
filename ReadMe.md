@@ -36,9 +36,11 @@ by Buzs
 - added 2 new bunkers
 - added trench system
 - added camonet (british army)
+- added 6x Royal Marine Commandos (1982)
 - added 4 civilians
 - added object ship RFA Sir Galahad (without function)
 - added object Exocet missile (without function)
+- added shelter for argentine army
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
