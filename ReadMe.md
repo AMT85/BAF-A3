@@ -45,6 +45,21 @@ by Buzs
 - added co40@ Operation Sutton v.1.0
   * (big thanx to Valeriy,Victor and Jouko)
 - added island sounds:Las Malvinas (birds,winds etc)
+- fixed walking animation
+- fixed rock in the middle of the road
+- modified more brightness in the sea
+- added 3x civilian farm houses
+* Weapons:
+- added Rifle FARA 83
+- added MG FN MAG trípode
+- added Sistema Colt Modelo 1927
+- added FMK-3 submachine gun
+* Vehicles
+- added M-113
+- added VC Tan Patagón 105 mm
+
+* Military insignia of Argentina
+- ARA Antarctica
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
