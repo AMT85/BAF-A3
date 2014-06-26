@@ -41,6 +41,10 @@ by Buzs
 - added object ship RFA Sir Galahad (without function)
 - added object Exocet missile (without function)
 - added shelter for argentine army
+- added co40@ Operación Las Malvinas v.1.0
+- added co40@ Operation Sutton v.1.0
+  * (big thanx to Valeriy,Victor and Jouko)
+- added island sounds:Las Malvinas (birds,winds etc)
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
