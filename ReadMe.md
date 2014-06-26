@@ -59,7 +59,7 @@ by Buzs
 - added VC Tan Patagón 105 mm
 
 * Military insignia of Argentina
-- ARA Antarctica
+- added ARA Antarctica
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
