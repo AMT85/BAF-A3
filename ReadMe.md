@@ -35,7 +35,7 @@ by Buzs
 - fixed Gurkhas beret (smaller size)
 - added 2 new bunkers
 - added trench system
-- added camonet (britisch army)
+- added camonet (british army)
 - added 4 civilians
 - added object ship RFA Sir Galahad (without function)
 - added object Exocet missile (without function)
