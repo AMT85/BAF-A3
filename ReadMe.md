@@ -10,6 +10,27 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-06-26:</h5> 
+by Buzs
+
+- fixed texture for Jackal
+- modified config L85A2
+- added SAS backpack
+- added 2x new berets
+- added 5x soldiers, 1x officer 3rd para
+- added sign for 
+	* Grenadier Guards
+	* Coldstream Guards
+	* The Royal Dragoon Guards
+	* 1st Royal Tank Regiment
+	* Corps of Royal Engineers
+	* Royal Logistic Corps
+- modified classnames of Gurkhas
+- added Islas Malvinas ('Falklands',West and East) island (BETA)
+- added Mirage 5P airplane
+- added TAM 105 mm (Tanque Argentino Mediano) (BETA)
+- 5x soldiers argentine army (BETA)
+
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
 
