@@ -30,6 +30,15 @@ by Buzs
 - added Mirage 5P airplane
 - added TAM 105 mm (Tanque Argentino Mediano) (BETA)
 - 5x Independent Argentine Army:Special Operations Forces Group (Agrupación de Fuerzas de Operaciones Especiales, AFOE) (BETA)
+- fixed waterline bug at the coast (Islas Malvinas)
+- added intro music for the island
+- fixed Gurkhas beret (smaller size)
+- added 2 new bunkers
+- added trench system
+- added camonet (britisch army)
+- added 4 civilians
+- added object ship RFA Sir Galahad (without function)
+- added object Exocet missile (without function)
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
