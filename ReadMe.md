@@ -29,7 +29,7 @@ by Buzs
 - added Islas Malvinas ('Falklands',West and East) island (BETA)
 - added Mirage 5P airplane
 - added TAM 105 mm (Tanque Argentino Mediano) (BETA)
-- 5x Argentine Army:Special Operations Forces Group (Agrupación de Fuerzas de Operaciones Especiales, AFOE) (BETA)
+- 5x Independent Argentine Army:Special Operations Forces Group (Agrupación de Fuerzas de Operaciones Especiales, AFOE) (BETA)
 
 <h5>2014-06-25:</h5> 
 by Buzs,Pavel,Valeriy
