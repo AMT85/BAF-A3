@@ -10,6 +10,14 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-06-27:</h5> 
+by Valeriy
+
+* For Release Candidate RC2
+
+- added co@54 Battle Of Goose Green v.1.0
+  * Thanx to the AMT85 Community and Victor,Ethan,Marci for testing :-)
+
 <h5>2014-06-26:</h5> 
 by Buzs
 
