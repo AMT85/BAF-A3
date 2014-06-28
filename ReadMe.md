@@ -10,6 +10,13 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-06-28:</h5> 
+by Buzs
+
+- activate ticket system for download
+
+* For Release Candidate RC2
+
 <h5>2014-06-27:</h5> 
 by Valeriy
 
