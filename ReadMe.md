@@ -10,6 +10,14 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-07-02:</h5> 
+by Buzs
+
+- added Release Candidate RC3
+  * Thanx to the AMT85 guys for testing
+  * download as usual --> AMT85-Sync-Tool
+  * see internal ChangeLog for details
+
 <h5>2014-06-28:</h5> 
 by Buzs
 
