@@ -1,3 +1,0 @@
-Closed
-
-Ticket not available
