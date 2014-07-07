@@ -24,7 +24,7 @@ by Buzs
 
 - added Release Candidate RC3
   * Thanx to the AMT85 guys for testing
-  * download as usual --> AMT85-Sync-Tool (UPDATE this tool first, before you download the stuff!)
+  * download as usual --> AMT85-Sync-Tool (UPDATE this tool first, before you download the stuff)
   * see internal ChangeLog for details
 
 <h5>2014-06-28:</h5> 
