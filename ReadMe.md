@@ -10,6 +10,23 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+
+<h5>2014-07-08:</h5> 
+by Buzs
+
+- added Release Candidate RC4
+  * fixed bug: Scimitar cant switch off the lights
+  * added new vegetation for Las Malvinas
+  * added 6 civilians
+  * object ship Sir Galahad is now enterable
+  * fixed sound for Jackal
+  * added afterburner for airplane Mirage
+  * added Sea Harrier FRS1
+  * added pilot for Harrier
+  
+  - download as usual --> AMT85-Sync-Tool
+  - see internal ChangeLog for details
+
 <h5>2014-07-07:</h5> 
 by Buzs
 
