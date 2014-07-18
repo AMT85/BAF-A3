@@ -10,6 +10,15 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+<h5>2014-07-18:</h5> 
+by Buzs
+
+- added Release Candidate RC5
+  * fixed bug: Gurkha officer cant wear backpack
+  * fixed bug: Harrier can not land properly
+  * fixed bug: TAM 105 mm right chain not working
+  * added english radio for AMT85 Task Force Radio system
+  * see the internal Changelog for the other changes and new features
 
 <h5>2014-07-08:</h5> 
 by Buzs
