@@ -19,6 +19,7 @@ by Buzs
   * fixed bug: TAM 105 mm right chain not working
   * added english radio for AMT85 Task Force Radio system
   * see the internal Changelog for the other changes and new features
+  * Do not forgot to use the AMT85-Sync-tool to get the new RC5
 
 <h5>2014-07-08:</h5> 
 by Buzs
