@@ -10,6 +10,15 @@ BAF for Arma 3
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
+
+<h5>2014-07-30:</h5> 
+by Buzs
+
+- added Release 1.0
+- see internal ChangeLog for more details
+
+- delete the old folder from any Release Candidate before you are syncing
+
 <h5>2014-07-18:</h5> 
 by Buzs
 
