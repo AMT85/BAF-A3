@@ -1,10 +1,14 @@
 BAF for Arma 3
 
 - Only available for AMT85 and friends.
-- Use a ticket to download the RC stuff.
+- Use a ticket to download the stuff.
 - If you have some ideas or suggestions,do not hesitate to contact us:
 
+<h5>Be a tester!</h5> 
+
 - amt85-stuff@mail.ru
+
+- contact us if you have interest to join the core testers of the mod
 
 - <h3>Licensed under CC BY-NC-SA 4.0</h3>
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
